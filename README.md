@@ -1,7 +1,6 @@
 ## Hi, I'm Desmond 👋
 
-🛡️ **Cybersecurity student at South Carolina State University** — focused on **network & infrastructure defense**.
-📊 3.91 GPA · sitting for **CompTIA Security+** (Dec 2026)
+Cybersecurity student at South Carolina State University — focused on network & infrastructure defense. 3.91 GPA · sitting for CompTIA Security+ (Dec 2026).
 
 I build things that are secure by design — and I build tools that teach other students to do the same.
 
@@ -11,10 +10,10 @@ I build things that are secure by design — and I build tools that teach other 
 - **Flowlist** — a cross-platform task app with end-to-end encrypted sync (AES-GCM) that refuses to fall back to plaintext.
 
 ### 🧰 Toolbox
-**Languages:** Python · Java · JavaScript · HTML/CSS
-**Security:** Nmap · Wireshark · log analysis · Linux hardening · end-to-end encryption (AES-GCM)
-**Systems:** Linux (Kali) · VirtualBox · Git & GitHub · command line
-**Currently learning:** Bash · SQL · PowerShell
+- **Languages:** Python · Java · JavaScript · HTML/CSS
+- **Security:** Nmap · Wireshark · log analysis · Linux hardening · end-to-end encryption (AES-GCM)
+- **Systems:** Linux (Kali) · VirtualBox · Git & GitHub · command line
+- **Currently learning:** Bash · SQL · PowerShell
 
 ### 📫 Reach me
 - **LinkedIn:** [linkedin.com/in/desmond-dickey](https://linkedin.com/in/desmond-dickey)
